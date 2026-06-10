@@ -1,8 +1,4 @@
-# floor 0
-
-## Keep Building Your Vision
-
-## We Make Sure It Can Stand
+<img src="./transparent-logo.png" alt="floor 0" width="420">
 
 We're a small team of senior developers, specialized in turning prototypes and first iterations into maintainable, scalable, and secure products.
 
