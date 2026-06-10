@@ -1,4 +1,4 @@
-<img src="./transparent-logo.png" alt="floor 0" width="420">
+<p align="center"><img src="./transparent-logo.png" alt="floor 0" width="420"></p>
 
 We're a small team of senior developers, specialized in turning prototypes and first iterations into maintainable, scalable, and secure products.
 
