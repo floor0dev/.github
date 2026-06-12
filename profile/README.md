@@ -1,6 +1,6 @@
 <p align="center"><img src="./transparent-logo.png" alt="floor 0" width="420"></p>
 
-We're a small team of senior developers, specialized in turning prototypes and MVPs into maintainable, scalable, and secure products.
+We help you turn your fast-built, AI-assisted MVP into a reliable product that won’t collapse as you grow.
 
 [book a call](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
 
