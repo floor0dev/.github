@@ -2,7 +2,7 @@
 
 We help you turn your vibe-coded MVP into a reliable product that won’t collapse as you grow.
 
-[book a free call](undefined)
+[book a free call](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
 
 ## Is This You?
 
@@ -42,8 +42,9 @@ simple:
 4. Together with you, we go over the findings, and we give you a follow-up offer to fix what needs fixing. Development work is priced at **$1,000/day**, with discounts for long-term commitments.
 5. If you decide to continue working with us, **we roll up our sleeves and start working**. Else, the initial plan from the audit is an excellent starting point for one of your engineers or a coding agent.
 
-Ready to reinforce your foundation?\
-[Let's talk!](undefined)
+Ready to get started?\
+[Book your free call!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
+
 ## Our Philosophy
 
 **All good software has warts**. Bad code, tech debt, bugs... They are
@@ -68,5 +69,5 @@ resilient to ordinary defects:
    system probably lacks good observability. You need enough logs, metrics, and
    alerts to understand what broke, where, and why.
 
-Ready to reinforce your foundation?\
-[Let's talk!](undefined)
+Do these problems sound familiar?\
+[Let's talk!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
