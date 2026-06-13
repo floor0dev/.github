@@ -36,9 +36,9 @@ large enterprises on systems that serve millions of users every day.
 We're allergic to bureaucracy and process, so we make working with us dead
 simple:
 
-1. <a href={ctaHref}>You book a free introductory call</a>, where you tell us about your company, your product, and your perceived needs.
+1. You book a **free introductory call**, where you tell us about your company, your product, and the technical risks you’re worried about.
 2. We send you a fixed-price proposal for an **initial audit** of your codebase, priced **between $1,200 and $6,000**, depending on the complexity of your product.
-3. We **review your codebase** from different angles: architecture, security, operational cost, etc. We **find all the creaks**, big and small, and **lay out an initial plan** to address them. (See example audit report.)
+3. We **review your codebase** from different angles: architecture, security, operational cost, etc. We **find all the creaks**, big and small, and **lay out an initial plan** to address them. (See example report.)
 4. Together with you, we go over the findings, and we give you a follow-up offer to fix what needs fixing. Development work is priced at **$1,000/day**, with discounts for long-term commitments.
 5. If you decide to continue working with us, **we roll up our sleeves and start working**. Else, the initial plan from the audit is an excellent starting point for one of your engineers or a coding agent.
 
@@ -49,24 +49,24 @@ Ready to reinforce your foundation?\
 **All good software has warts**. Bad code, tech debt, bugs... They are
 unavoidable when building a large and complex product that solves real problems.
 
-In our experience, however, there are a few load-bearing aspects that make a
-codebase **resilient to these defects**. It's like the old story of warplanes:
-reinforce the critical parts, and you can brush off a few bullet holes here and
-there:
+In our experience, however, fragile software usually breaks around the same few
+load-bearing points. Strengthen those, and the codebase becomes much more
+resilient to ordinary defects:
 
-1. **Domain Model**: The conceptual representation of your business. This is the
-   part that coding agents most often neglect. A strong model makes new features
-   feel like natural extensions, not ill-fitting patches.
-2. **Architecture**: How the software is organized: the parts it's divided into,
-   and the responsibilities of each part. Without it, a change to the checkout
-   flow unexpectedly breaks the user profile page.
-3. **Setup and Deployment**: The set of tools and practices used to build your
-   product and ship it to your users. It's essential for AI-assisted
-   development, as it gives agents the strict guardrails they need to self-check
-   and self-evaluate.
-4. **Observability**: CCTV for your software. Things break, and good
-   observability is the difference between pinpointing the exact cause in
-   minutes or finding out hours later from an angry tweet.
+1. **The product model**: if every new feature feels harder than it should, the
+   product's core concepts are probably unclear in the code. This is where
+   coding agents often go wrong. A strong model makes new features feel like
+   natural extensions, not ill-fitting patches.
+2. **The architecture**: if fixing one bug creates three new ones, the software
+   is probably too tangled. Good architecture puts clear boundaries between
+   parts of the system, so changes stay closer to where they belong.
+3. **Testing and deployment**: If the easiest way to test a change is to push it
+   live, the process is broken. A good setup makes it trivial and safe to test
+   changes, and gives coding agents the guardrails they need to self-check their
+   work.
+4. **Feedback from production**: if customers notice bugs before you do, the
+   system probably lacks good observability. You need enough logs, metrics, and
+   alerts to understand what broke, where, and why.
 
 Ready to reinforce your foundation?\
 [Let's talk!](undefined)
