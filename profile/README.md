@@ -1,40 +1,50 @@
 <p align="center"><img src="./transparent-logo.png" alt="floor 0" width="420"></p>
 
-We help you turn your fast-built, AI-assisted MVP into a reliable product that won’t collapse as you grow.
+We help you turn your vibe-coded MVP into a reliable product that won’t collapse as you grow.
 
-[book a call](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
+[book a free call](undefined)
 
 ## Is This You?
 
-**You're doing great**. Users love your product, your company keeps growing, and
-you've got funding to take it to the next level.
+**You're doing great**. Your product keeps growing and users love it.
 
-But you can feel that **your foundations are wobbly**. Adding features takes
+But you can feel that **the foundations are shaky**. Adding features takes
 longer and longer, and bugs keep coming back.
 
 You also worry: is the product secure? Can it scale? Will your hosting costs
 balloon?
 
-Your coding agent tells you everything is covered, but can you trust it?
+Your coding agent tells you everything is covered, but **can you trust it?**
 
-## Then We Can Help
+## We Can Help
 
-We audit your systems, locate the structural fractures, and rebuild them while
-you keep moving.
+We audit your system, locate the structural fractures, and fix them.
 
 **Our goal is to give your product a solid foundation**, so you can continue
-growing it without slowing down and without worrying about it collapsing.
+growing it without slowdowns or collapses.
 
 ## Who We Are
 
-We're a small engineering team, each with more than 15 years of experience,
-during which we've seen it all. We've helped startups build up their stacks from
-scratch, and we've worked on systems that serve millions of users every day.
+We're a small engineering team, each of us with more than 15 years of
+experience.
 
-Every company is different, and we adapt to their peculiarities, though our work
-is always guided by a handful of principles.
+We've helped startups build up their stacks from scratch, as well as worked in
+large enterprises on systems that serve millions of users every day.
 
-## Our Approach
+## Working With Us
+
+We're allergic to bureaucracy and process, so we make working with us dead
+simple:
+
+1. <a href={ctaHref}>You book a free introductory call</a>, where you tell us about your company, your product, and your perceived needs.
+2. We send you a fixed-price proposal for an **initial audit** of your codebase, priced **between $1,200 and $6,000**, depending on the complexity of your product.
+3. We **review your codebase** from different angles: architecture, security, operational cost, etc. We **find all the creaks**, big and small, and **lay out an initial plan** to address them. (See example audit report.)
+4. Together with you, we go over the findings, and we give you a follow-up offer to fix what needs fixing. Development work is priced at **$1,000/day**, with discounts for long-term commitments.
+5. If you decide to continue working with us, **we roll up our sleeves and start working**. Else, the initial plan from the audit is an excellent starting point for one of your engineers or a coding agent.
+
+Ready to reinforce your foundation?\
+[Let's talk!](undefined)
+## Our Philosophy
 
 **All good software has warts**. Bad code, tech debt, bugs... They are
 unavoidable when building a large and complex product that solves real problems.
@@ -58,21 +68,5 @@ there:
    observability is the difference between pinpointing the exact cause in
    minutes or finding out hours later from an angry tweet.
 
-## How We Work
-
-We're allergic to bureaucracy and process, so we make working with us dead
-simple:
-
-1. [You book a free introductory call](https://calendar.app.google/G2Yj1cujj1JAJx6N9),
-   where you tell us about your company, your product, and your perceived needs.
-2. We send you an offer for an initial audit, where we comb through your
-   codebase and your systems to identify which parts need TLC. This takes one to
-   five days, priced as a flat fee **between $1,200 and $6,000** depending on
-   the size and complexity of your product.
-3. The audit report comes in, with a follow-up offer to fix the parts where our
-   solution fits. Pricing for development work is **$1,000/day**, with discounts
-   for long commitments.
-4. We fix things up, while you keep on building your product.
-
 Ready to reinforce your foundation?\
-[Let's talk!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
+[Let's talk!](undefined)
