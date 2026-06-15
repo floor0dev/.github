@@ -25,11 +25,11 @@ growing it without slowdowns or collapses.
 
 ## Who We Are
 
-We're a small engineering team, each of us with more than 15 years of
-experience.
+We're two senior engineers with more than 15 years of experience each. We've
+helped startups build up their stacks from scratch, as well as worked in large
+enterprises on systems that serve millions of users every day.
 
-We've helped startups build up their stacks from scratch, as well as worked in
-large enterprises on systems that serve millions of users every day.
+<CompanyLogos />
 
 ## Working With Us
 
@@ -37,9 +37,9 @@ We're allergic to bureaucracy and process, so we make working with us dead
 simple:
 
 1. You book a **free introductory call**, where you tell us about your company, your product, and the technical risks you’re worried about.
-2. We send you a fixed-price proposal for an **initial audit** of your codebase, priced **between $1,200 and $6,000**, depending on the complexity of your product.
+2. We send you a fixed-price proposal for an **initial audit** of your codebase, priced **between $1,500 and $6,000**, depending on the complexity of your product.
 3. We **review your codebase** from different angles: architecture, security, operational cost, etc. We **find all the creaks**, big and small, and **lay out an initial plan** to address them. (See example report.)
-4. Together with you, we go over the findings, and we give you a follow-up offer to fix what needs fixing. Development work is priced at **$1,000/day**, with discounts for long-term commitments.
+4. Together with you, we go over the findings, and we give you a follow-up offer to fix what needs fixing. Development work is priced at **$1,200/day**, with discounts for long-term commitments.
 5. If you decide to continue working with us, **we roll up our sleeves and start working**. Else, the initial plan from the audit is an excellent starting point for one of your engineers or a coding agent.
 
 Ready to get started?\
