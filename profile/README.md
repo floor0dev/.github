@@ -29,6 +29,8 @@ We're two senior engineers with more than 15 years of experience each. We've
 helped startups build up their stacks from scratch, as well as worked in large
 enterprises on systems that serve millions of users every day.
 
+Some of the companies we've worked with over the years:
+
 <CompanyLogos />
 
 ## Working With Us
