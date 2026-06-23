@@ -64,9 +64,9 @@ Some of the companies we've worked for:
 
 <CompanyLogos />
 
-What people say about us:
+{/* What people say about us: */}
 
-<Testimonials />
+{/* <Testimonials /> */}
 
-Want to work with us?\
+Want to work with us too?\
 [Let's get started!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
