@@ -20,18 +20,25 @@ Your coding agent tells you everything is covered, but **can you trust it?**
 
 We audit your system, locate the structural fractures, and fix them.
 
-**Our goal is to give your product a solid foundation**, so you can continue
-growing it without slowdowns or collapses.
+**We give your product a solid foundation**, so you can continue growing it
+without slowdowns or collapses.
 
-## Who We Are
+## Our Philosophy
 
-We're two senior engineers with more than 15 years of experience each. We've
-helped startups build up their stacks from scratch, as well as worked in large
-enterprises on systems that serve millions of users every day.
+**All good software has warts**. Bad code, tech debt, bugs... They are
+unavoidable when building a large and complex product that solves real problems.
 
-Some of the companies we've worked with over the years:
+In our experience, however, fragile software usually breaks around the same few
+load-bearing points. Strengthen those, and the codebase becomes much more
+resilient to ordinary defects:
 
-<CompanyLogos />
+1. **The product model**: if every new feature feels harder than it should, the product's core concepts are probably unclear in the code. A strong model makes new features feel like natural extensions, not ill-fitting patches. (Note: coding agents most often neglect this aspect.)
+2. **The architecture**: if fixing one bug creates three new ones, the software is probably too tangled. Good architecture puts clear boundaries between parts of the system, so changes stay closer to where they belong.
+3. **Testing and deployment**: If the easiest way to test a change is to push it live, the process is broken. A good setup makes it trivial and safe to test changes, and gives coding agents the guardrails they need to self-check their work.
+4. **Feedback from production**: if customers notice bugs before you do, the system probably lacks good observability. You need enough logs, metrics, and alerts to understand what broke, where, and why.
+
+Do these problems sound familiar?\
+[Let's talk!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
 
 ## Working With Us
 
@@ -47,29 +54,19 @@ simple:
 Ready to get started?\
 [Book your free call!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
 
-## Our Philosophy
+## Who We Are
 
-**All good software has warts**. Bad code, tech debt, bugs... They are
-unavoidable when building a large and complex product that solves real problems.
+We're two senior engineers with more than 15 years of experience each. In our
+careers we've helped startups build up their stacks from scratch, as well as
+worked in large enterprises on systems that serve millions of users every day.
 
-In our experience, however, fragile software usually breaks around the same few
-load-bearing points. Strengthen those, and the codebase becomes much more
-resilient to ordinary defects:
+Some of the companies we've worked for:
 
-1. **The product model**: if every new feature feels harder than it should, the
-   product's core concepts are probably unclear in the code. This is where
-   coding agents often go wrong. A strong model makes new features feel like
-   natural extensions, not ill-fitting patches.
-2. **The architecture**: if fixing one bug creates three new ones, the software
-   is probably too tangled. Good architecture puts clear boundaries between
-   parts of the system, so changes stay closer to where they belong.
-3. **Testing and deployment**: If the easiest way to test a change is to push it
-   live, the process is broken. A good setup makes it trivial and safe to test
-   changes, and gives coding agents the guardrails they need to self-check their
-   work.
-4. **Feedback from production**: if customers notice bugs before you do, the
-   system probably lacks good observability. You need enough logs, metrics, and
-   alerts to understand what broke, where, and why.
+<CompanyLogos />
 
-Do these problems sound familiar?\
-[Let's talk!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
+What people say about us:
+
+<Testimonials />
+
+Want to work with us?\
+[Let's get started!](https://calendar.app.google/G2Yj1cujj1JAJx6N9)
